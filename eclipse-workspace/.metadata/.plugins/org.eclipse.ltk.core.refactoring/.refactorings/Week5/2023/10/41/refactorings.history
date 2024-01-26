@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jquery&apos; to &apos;vendor&apos;&#x0A;- Original project: &apos;Week5&apos;&#x0A;- Destination element: &apos;vendor&apos;&#x0A;- Original element: &apos;jquery&apos;" description="Copy folder" element1="src/main/webapp/assets/vendor/jquery" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1697077138140" target="/MysqlBYOProject/src/main/webapp/vendor" units="0" version="1.0"/>
+</session>

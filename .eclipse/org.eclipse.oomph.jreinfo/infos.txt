@@ -1,0 +1,1 @@
+/Library/Java/JavaVirtualMachines/jdk-18.0.2.1.jdk/Contents/Home:18:0:2:64:true:1660611577000:x86_64

@@ -1,0 +1,3 @@
+Number of records: 20
+Most expensive house details: ['13', ' 4892', ' 5', ' 6', '   32311', ' 2005', ' 799900']
+Least expensive house details: ['14', ' 1128', ' 2', ' 1', '   32303', ' 1955', '  89000']

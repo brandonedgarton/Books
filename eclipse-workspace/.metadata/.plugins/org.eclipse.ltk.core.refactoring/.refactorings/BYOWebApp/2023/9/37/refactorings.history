@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BYOWebApp/src/main/webapp/assets/css/styles.css&apos; to &apos;stylesheet.css&apos;" description="Rename resource &apos;styles.css&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/assets/css/styles.css" name="stylesheet.css" stamp="1694482201581" updateReferences="true"/>
+</session>

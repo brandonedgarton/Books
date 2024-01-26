@@ -1,0 +1,15 @@
+import PE1(ch11)
+
+print("Enter Information")
+
+emp_name = input("Employee Name: ")
+emp_num = int(input("Employee Number: "))
+shift_num = int(input("Shift Number (1 for days, 2 for nights: "))
+pay_rate = float(input("Enter hourly pay: "))
+
+employee = PE1(ch11).ProductionWorker(emp_name, emp_num, shift_num, pay_rate)
+
+print("Name: ", employee.get_employee_name())
+print("Employee Number: ", employee.get_employee_number())
+print("Shift: ", employee.get_shift_number())
+print("Hourly Pay: ", format(employee.get_pay_rate(), ",.2f"), sep="")
